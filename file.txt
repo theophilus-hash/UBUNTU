@@ -1,5 +1,5 @@
 This is my first git file
 This line was added to this file from my github repo
-
+This third line was added via a nano editor on my local repo
 
 
